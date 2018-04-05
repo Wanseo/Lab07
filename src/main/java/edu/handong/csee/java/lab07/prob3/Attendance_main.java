@@ -1,10 +1,10 @@
-package edu.handong.csee.java.lab07.prob3;
+package edu.handong.csee.java.lab07.prob3; // define package name edu.handong.csee.java.lab07.prob3
 
-import java.util.Random;
+import java.util.Random; //import the class that name Random
 
-public class Attendance_main {
+public class Attendance_main { //class name is  Attendance_main
 
-	public static void main(String[] args) {
+	public static void main(String[] args) { //main method 
 		Attendance s_1 = new Attendance(null, 0, null, 0);
 		Attendance s_2 = new Attendance(null, 0, null, 0);
 		Attendance s_3 = new Attendance("Lucas", 1, "21833222", 0);
